@@ -7,7 +7,7 @@ Este proyecto ha sido desarrollado con [LibGDX](https://libgdx.com/) y es compat
 
 ---
 
-![Captura del juego](imagen juego captura.JPG)
+![Captura del juego](imagen-juego-captura.JPG)
 
 ## 🎮 ¿Cómo se juega?
 
