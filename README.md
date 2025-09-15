@@ -26,6 +26,19 @@ Este proyecto ha sido desarrollado con [LibGDX](https://libgdx.com/) y es compat
 
 ---
 
+## Tecnolodías usadas:
+- LibGDX
+- Gradle
+- Java
+- Construo (para empaquetado nativo)
+
+---
+
+## Créditos:
+Creado por mí, Montse Muñoz, desde un lugar de La Mancha de cuyo nombre sí quiero acordarme, pero no es de mayor interés para vosotros :)
+
+--- 
+
 ## 🚀 Cómo ejecutar
 
 1. Asegúrate de tener Java 8 o superior instalado.
@@ -35,11 +48,3 @@ Este proyecto ha sido desarrollado con [LibGDX](https://libgdx.com/) y es compat
 ```bash
 java -jar Serpiente-1.0.0.jar
 
-## Tecnolodías usadas:
-- LibGDX
-- Gradle
-- Java
-- Construo (para empaquetado nativo)
-
-## Créditos:
-Creado por mí, Montse Muñoz, desde un lugar de La Mancha de cuyo nombre sí quiero acordarme, pero no es de mayor interés para vosotros :)
