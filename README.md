@@ -45,7 +45,7 @@ Creado por mí, Montse Muñoz, desde un lugar de La Mancha de cuyo nombre sí qu
 
 Descarga la versión jugable aquí:
 
-👉 [Descargar juego (.jar)](https://github.com/Monmu9/serpiente-libgdx/releases/download/v1.0.0/serpiente-libgdx.jar)
+👉 [Descargar juego (.jar)](https://github.com/Monmu9/serpiente-libgdx/releases/download/v.1.0.0/JuegoSerpiente-1.0.0.jar)
 
 ---
 
