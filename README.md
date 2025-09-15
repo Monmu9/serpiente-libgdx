@@ -7,6 +7,8 @@ Este proyecto ha sido desarrollado con [LibGDX](https://libgdx.com/) y es compat
 
 ---
 
+![Captura del juego](imagen juego captura.JPG)
+
 ## 🎮 ¿Cómo se juega?
 
 - Controla la serpiente con las teclas de dirección.
