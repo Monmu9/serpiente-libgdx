@@ -26,7 +26,7 @@ Este proyecto ha sido desarrollado con [LibGDX](https://libgdx.com/) y es compat
 
 ---
 
-## Tecnolodías usadas:
+## Tecnologías usadas:
 - LibGDX
 - Gradle
 - Java
