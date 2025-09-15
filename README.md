@@ -41,6 +41,14 @@ Creado por mí, Montse Muñoz, desde un lugar de La Mancha de cuyo nombre sí qu
 
 --- 
 
+## 🎮 Juega ahora
+
+Descarga la versión jugable aquí:
+
+👉 [Descargar juego (.jar)](https://github.com/Monmu9/serpiente-libgdx/releases/download/v1.0.0/serpiente-libgdx.jar)
+
+---
+
 ## 🚀 Cómo ejecutar
 
 1. Asegúrate de tener Java 8 o superior instalado.
