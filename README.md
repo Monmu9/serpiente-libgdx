@@ -1,36 +1,51 @@
-# JuegoSerpiente
 
-A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
+# 🐍 Serpiente - Juego creado con LibGDX
 
-This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+¡Bienvenida/o al clásico juego de la serpiente!
+Ha sido reinventado por mí, con algunas variaciones...  
+Este proyecto ha sido desarrollado con [LibGDX](https://libgdx.com/) y es compatible con Windows, Linux y macOS.
 
-## Platforms
+---
 
-- `core`: Main module with the application logic shared by all platforms.
-- `lwjgl3`: Primary desktop platform using LWJGL3; was called 'desktop' in older docs.
-- `html`: Web platform using GWT and WebGL. Supports only Java projects.
+## 🎮 ¿Cómo se juega?
 
-## Gradle
+- Controla la serpiente con las teclas de dirección.
+- Come manzanas para crecer. Verás que hay 2 tipos de manzana: la roja te sumará 10 puntos, la arcoiris te sumará 20 puntos.
+- Cada 50 puntos, subes de nivel. Será fácil de reconocer ya que el fondo del juego cambiará de color.
+- Evita chocar contra ti misma, ya que perderás una vida. Tienes 3 en total, así que cuando las pierdas te saldrá un mensaje de "Game Over". En este momento, si pulsas "espacio" iniciarás el juego de neuvo.
+- Consigue la mejor puntuación posible. El HUD te avisará cuando hayas batido tu récord, cambiando a un color dorado y parpadeando.
 
-This project uses [Gradle](https://gradle.org/) to manage dependencies.
-The Gradle wrapper was included, so you can run Gradle tasks using `gradlew.bat` or `./gradlew` commands.
-Useful Gradle tasks and flags:
+---
 
-- `--continue`: when using this flag, errors will not stop the tasks from running.
-- `--daemon`: thanks to this flag, Gradle daemon will be used to run chosen tasks.
-- `--offline`: when using this flag, cached dependency archives will be used.
-- `--refresh-dependencies`: this flag forces validation of all dependencies. Useful for snapshot versions.
-- `build`: builds sources and archives of every project.
-- `cleanEclipse`: removes Eclipse project data.
-- `cleanIdea`: removes IntelliJ project data.
-- `clean`: removes `build` folders, which store compiled classes and built archives.
-- `eclipse`: generates Eclipse project data.
-- `html:dist`: compiles GWT sources. The compiled application can be found at `html/build/dist`: you can use any HTTP server to deploy it.
-- `html:superDev`: compiles GWT sources and runs the application in SuperDev mode. It will be available at [localhost:8080/html](http://localhost:8080/html). Use only during development.
-- `idea`: generates IntelliJ project data.
-- `lwjgl3:jar`: builds application's runnable jar, which can be found at `lwjgl3/build/libs`.
-- `lwjgl3:run`: starts the application.
-- `test`: runs unit tests (if any).
+## 📦 ¿Qué incluye?
 
-Note that most tasks that are not specific to a single project can be run with `name:` prefix, where the `name` should be replaced with the ID of a specific project.
-For example, `core:clean` removes `build` folder only from the `core` project.
+- Código fuente completo en Java.
+- Recursos gráficos personalizados.
+- Ejecutable `.jar` listo para jugar.
+- Soporte para empaquetado nativo con Construo.
+
+---
+
+## Tecnologías usadas:
+- LibGDX
+- Gradle
+- Java
+- Construo (para empaquetado nativo)
+
+---
+
+## Créditos:
+Creado por mí, Montse Muñoz, desde un lugar de La Mancha de cuyo nombre sí quiero acordarme, pero no es de mayor interés para vosotros :)
+
+--- 
+
+## 🚀 Cómo ejecutar
+
+1. Asegúrate de tener Java 8 o superior instalado.
+2. Descarga el archivo `Serpiente-1.0.0.jar` desde la carpeta `lwjgl3/build/libs`.
+3. Ejecuta con doble clic o desde la terminal:
+
+```bash
+java -jar Serpiente-1.0.0.jar
+
+>>>>>>> 519043c6cf85fa942e4f5e3e3516c7d3d7e1e32e
